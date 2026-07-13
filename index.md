@@ -4,4 +4,4 @@ I am a conservation social scientist and postdoctoral fellow based at Oregon Sta
 - [Google Scholar](https://scholar-google-com.oregonstate.idm.oclc.org/citations?user=IwacIZcAAAAJ&hl=en&oi=ao)
 - [ORCiD](https://orcid.org/0000-0001-6264-1821)
 - [Work website](https://brianderickson.weebly.com)
-- Email
+- [Email](mailto:brian.erickson@oregonstate.edu)
