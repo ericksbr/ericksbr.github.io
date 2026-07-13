@@ -5,3 +5,5 @@ I am a conservation social scientist and postdoctoral fellow based at Oregon Sta
 - [ORCiD](https://orcid.org/0000-0001-6264-1821)
 - [Work website](https://brianderickson.weebly.com)
 - [Email](mailto:brian.erickson@oregonstate.edu)
+
+![Brian smiling at camera on path in woods](https://brianderickson.weebly.com/uploads/1/1/2/1/112119825/published/brian-erickson-headshots-100-ashlie-behm-photography.jpg?1698875799))
