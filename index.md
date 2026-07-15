@@ -6,4 +6,4 @@ I am a conservation social scientist and postdoctoral fellow based at Oregon Sta
 - [Work website](https://brianderickson.weebly.com)
 - [Email](mailto:brian.erickson@oregonstate.edu)
 
-![Headshot photo of Brian smiling at camera on a wooded path](/img/headshot.jpg)
+![Scene from lake with Mt. Hood, OR, in background](/img/mt_hood.jpg)
