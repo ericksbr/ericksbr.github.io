@@ -7,3 +7,7 @@ I am a conservation social scientist and postdoctoral fellow based at Oregon Sta
 - [Email](mailto:brian.erickson@oregonstate.edu)
 
 ![Scene from lake with Mt. Hood, OR, in background](/img/mthood.JPG)
+
+
+## A sample interactive map I created
+<embed type="text/html" src="/img/cu_map.html" height="650" width="850">
